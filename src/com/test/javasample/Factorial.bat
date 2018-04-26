@@ -1,3 +1,2 @@
-cd /Users/rnapa/workspace/TestJava
-javac Factorial.java
-java Factorial
+javac com/test/javasample/Factorial.java
+java com/test/javasample/Factorial
